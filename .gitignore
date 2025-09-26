@@ -4,3 +4,5 @@ build/
 logs/
 tmp/
 coverage/
+.DS_Store
+.vscode/
