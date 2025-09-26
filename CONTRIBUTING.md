@@ -1,6 +1,6 @@
 # Hướng Dẫn Đóng Góp
 
-Chúng tôi hoan nghênh tất cả đóng góp từ cộng đồng. Để bắt đầu, vui lòng làm theo các bước sau:
+Chúng tôi hoan nghênh tất cả các đóng góp từ cộng đồng. Để bắt đầu, vui lòng làm theo các bước sau:
 
 1. Fork dự án này.
 2. Tạo một nhánh mới cho tính năng hoặc sửa lỗi của bạn, với tên nhánh hợp lệ như: `git checkout -b feature/ten-tinh-nang` hoặc `git checkout -b fix/ten-bug`
